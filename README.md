@@ -69,23 +69,24 @@ Highlight text and press `Ctrl+Alt+M` to add a comment. A slide-out panel lists 
 
 ### Loremaster's Memory (Version Control)
 
-Built-in Git version control, abstracted so you never need to learn Git. Create named snapshots of your entire project, browse history, compare any two versions side by side, and restore earlier drafts — all from a simple panel.
+Built-in Git version control, simplified for a writer's workflow so that you don't have to learn the complexities of Git. Create named snapshots of your entire project, browse your version history, compare any two versions side by side, and restore earlier drafts — all from a simple panel.
 
 - **Snapshots** — save the state of your project at any point
+- **Auto-sync** — Settings for auto-sync to GitHub at timed intervals or whenever you take a snapshot
 - **Diff view** — see exactly what changed between any two versions
 - **Discard changes** — revert uncommitted edits per-file or project-wide
 - **Sync indicators** — sidebar badges show uncommitted and unsynced changes at a glance
 - **Git terminal** — power users can run raw Git commands via the `/git` slash command
 
 <!-- 📸 GIF — creating a snapshot, then viewing the diff of a scene between two snapshots -->
-<!-- <p align="center"><img src="docs/screenshots/loremaster.gif" alt="Loremaster's Memory version control" width="800" /></p> -->
+![Image](https://github.com/user-attachments/assets/53c7a3ad-ef64-4642-8a1f-7cd36a9a2470)
 
 ### Writing Stats & Goals
 
 Track your word count by manuscript, worldbuilding, or both. Set daily or project goals and watch your progress.
 
 <!-- 📸 SCREENSHOT — stats bar / goals panel -->
-<!-- <p align="center"><img src="docs/screenshots/stats.png" alt="Writing stats and goals" width="800" /></p> -->
+![Image](https://github.com/user-attachments/assets/13658fba-8e68-4588-a036-e540a30bb2b3)
 
 ### Project-Wide Search
 
@@ -94,6 +95,10 @@ Search across scenes, chapters, and all content with a four-scoped search panel.
 ### Spellcheck
 
 Context-menu corrections, per-project custom dictionary, and configurable spellcheck language.
+
+### Themes, Modes
+Foma displays in dark mode out-of-the-box, but it also comes in three color palettes that each have a light and dark mode so that you can write in the editor that makes you feel most at home.
+<img width="888" height="479" alt="Image" src="https://github.com/user-attachments/assets/af614d8f-11fd-4dce-abda-96b6abd0e125" />
 
 ---
 
