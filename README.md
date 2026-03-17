@@ -20,6 +20,8 @@ Foma is a **free, local-first desktop writing app** for novelists, game writers,
 
 Write in a modern distraction-free editor. Organize your world alongside your manuscript. Let built-in version control remember every draft so you never lose a word.
 
+Foma is actively designed to help writers start committing words to the page immediately every single time they sit down to write. Virtually anything writers wish to do is available at a keystroke, which means you're writing sooner, switching "windowed contexts" less frequently, and helping you write more words more often without breaking focus or fussing with settings. 
+
 ---
 
 ## Features
@@ -38,7 +40,7 @@ A clean, block-based rich text editor built for long-form writing. Chapters and 
 
 ### Focus Mode & Writing Sprints
 
-Shut out the noise. Focus mode hides everything except your text. Set a timed sprint to push through a writing session with a live word-count pill.
+Shut out the noise. Focus mode hides everything except your text. Set a timed sprint to push through a writing session with a live word-count pill. The "Typewriter focus" feature allows you to adjust your "typewriter ribbon" to your eye level no matter your screen size or orientation. You always type comfortably and distraction-free.
 
 <!-- 📸 GIF — entering focus mode, starting a sprint, the timer pill counting -->
 ![Image](https://github.com/user-attachments/assets/0315e99c-e4c6-4439-8ed5-f0c0a4867954)
@@ -134,6 +136,9 @@ Grab the latest release for your platform:
 - **macOS** 12 (Monterey) or later
 - **Linux** — Ubuntu 20.04+, Fedora 36+, or equivalent
 
+### Disclaimer
+Foma is built and maintained by a single developer with a creative writing degree. It is still in Alpha, and as such, I can't guarantee that every feature is stable and functioning as intended across different users's workflows, use cases, and project scopes. Please report any bugs you may encounter to [GitHub Issues](https://github.com/Piaomu/foma-app/issues) and I'll resolve each bug as soon as humanly possible. Thanks for your patience, understanding, and support. Happy writing!
+
 ---
 
 ## Getting Started
@@ -159,7 +164,7 @@ Grab the latest release for your platform:
 
 Foma is in active alpha development. Here's what's coming:
 
-- [ ] Export to DOCX, PDF, EPUB (coming soon!)
+- [x] Export to DOCX, PDF, EPUB (**released MVP in v0.3.0-alpha.3!**)
 - [ ] Collation — get your manuscript print-ready to bind by yourself
 - [ ] Quest Management — for game designers, a system that helps map quests, objectives, and rewards to your plot, subplots, and characters (coming soon!)
 - [ ] Visual Storyboarding — leverage auto-linked worldbuilding blocks to scaffold your plot and character development with ease
