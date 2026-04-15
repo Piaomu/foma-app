@@ -166,9 +166,9 @@ Foma is built and maintained by a single developer with a creative writing degre
 Foma is in active alpha development. Here's what's coming:
 
 - [x] Export to DOCX, PDF, EPUB (**released MVP in v0.3.0-alpha.3!**)
-- [ ] Collation — get your manuscript print-ready to bind by yourself
-- [ ] Quest Management — for game designers, a system that helps map quests, objectives, and rewards to your plot, subplots, and characters (coming soon!)
-- [ ] Visual Storyboarding — leverage auto-linked worldbuilding blocks to scaffold your plot and character development with ease
+- [x] Collation — get your manuscript print-ready to bind by yourself
+- [x] Quest Management — for game designers, a system that helps map quests, objectives, and rewards to your plot, subplots, and characters (coming soon!)
+- [x] Visual Storyboarding — leverage auto-linked worldbuilding blocks to scaffold your plot and character development with ease
 - [ ] Templates — use bre-built templates based on your needs, or create your own for re-use!
 - [ ] Corkboard — visual card-based story planning
 - [ ] Character & location profile sheets with structured fields
