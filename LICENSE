@@ -1,21 +1,39 @@
-MIT License
+End User License Agreement
+Version 1.0 — Please read and accept before continuing.
 
-Copyright (c) 2026 Kasey Wahl
+This End User License Agreement ("Agreement") is a legal agreement between you ("User") and Piaomu ("Company") for the use of Foma writing software ("Software"). By clicking "I Agree" you accept the terms below in full.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+1. Software Sovereignty
+Foma is a 'buy-to-own' product. The Company grants you a personal, non-exclusive, non-transferable, perpetual license to install and use the Software solely for your creative writing purposes. The Company treats this like a physical purchase: once you buy it, it is yours to use on your hardware indefinitely. The Company cannot 'switch off' your software or lock you out of your files. You may not sublicense, rent, or distribute the Software.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+Users who purchase Foma at a 'Founders' or discounted introductory rate enjoy the same perpetual license and sovereignty as full-price purchasers. Your early support is recognized as a completed 'honest trade' for the version of Foma that you have acquired.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+2. Intellectual Property
+The Software, including all code, design, and assets, is and remains the exclusive property of the Company. You own the Copy (the instance of Foma on your machine) and the Content (everything you write). Your own creative work produced using the Software remains entirely your property.
+
+3. Restrictions
+You may not: (a) reverse engineer, decompile, or disassemble the Software; (b) remove or alter any proprietary notices; (c) use the Software to develop a competing product; or (d) use the Software in any way that violates applicable law.
+
+4. Data & Privacy
+All project files are stored locally on your device. The Software does not collect, transmit, or share your creative content. Optional GitHub sync is performed at your explicit direction and governed by GitHub's own terms of service. Foma operates local-first. It does not 'phone home'. No telemetry, usage tracking, or automated crash reporting is active. If the software crashes, a log may be generated locally on your device; this log is never transmitted to the Company unless you manually and explicitly choose to email it to us for support.
+
+5. Updates
+You are never forced to update Foma. While the Company may issue updates to improve features or security, you may continue using your current version under the terms you originally agreed to indefinitely. If you choose to install a major update that includes a revised Agreement, you will be prompted to review and accept the new terms before using the updated software. The Company may issue updates that modify features or this Agreement. However, changes to the software or to this Agreement will only apply to the updated version of the Software.
+
+6. Disclaimer of Warranties
+THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT. THE COMPANY DOES NOT WARRANT THAT THE SOFTWARE WILL BE ERROR-FREE OR UNINTERRUPTED.
+
+DISCLAIMER:
+IF THE SOFTWARE IS PROVIDED TO YOU AS A 'FREE', 'ALPHA', OR 'BETA' VERSION, IT IS PROVIDED 'AS IS' FOR TESTING AND FEEDBACK PURPOSES. THE COMPANY IS NOT RESPONSIBLE FOR DATA LOSS OR INSTABILITY INHERENT IN PRE-RELEASE SOFTWARE. ACCESS TO ALPHA/BETA VERSIONS DOES NOT AUTOMATICALLY ENTITLE THE USER TO A LICENSE FOR THE FINAL COMMERCIAL RELEASE UNLESS EXPRESSLY STATED BY THE COMPANY.
+
+7. Limitation of Liability
+IN NO EVENT SHALL THE COMPANY BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, INCLUDING LOSS OF DATA OR LOST PROFITS, ARISING FROM YOUR USE OF OR INABILITY TO USE THE SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+8. Termination
+This Agreement is effective until terminated. It terminates automatically if you fail to comply with any of its terms. Upon termination you must stop using the Software and delete all copies in your possession.
+
+9. Governing Law
+This Agreement shall be governed by the laws of the jurisdiction in which the Company is incorporated, without regard to conflict-of-law principles.
+
+10. Entire Agreement
+This Agreement constitutes the entire agreement between you and the Company regarding the Software and supersedes all prior agreements or understandings.
