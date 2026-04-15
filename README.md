@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://github.com/Piaomu/foma-app/releases/latest"><img alt="Latest Release" src="https://img.shields.io/github/v/release/Piaomu/foma-app?include_prereleases&style=flat-square" /></a>
   <img alt="Platforms" src="https://img.shields.io/badge/platforms-Windows%20%7C%20macOS%20%7C%20Linux-blue?style=flat-square" />
-  <a href="LICENSE"><img alt="License" src="https://img.shields.io/badge/license-MIT-green?style=flat-square" /></a>
+  <a href="EULA.md"><img alt="License" src="https://img.shields.io/badge/license-Proprietary-blue?style=flat-square" /></a>
 </p>
 
 <!-- 📸 HERO SCREENSHOT — full-window shot showing the editor with sidebar + worldbuilding open -->
