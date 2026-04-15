@@ -110,7 +110,7 @@ Foma displays in dark mode out-of-the-box, but it also comes in three color pale
 | | Foma | Scrivener | Google Docs | Notion |
 |---|---|---|---|---|
 | **Local-first** | ✅ Plain Markdown + JSON on your disk | ✅ Proprietary binary | ❌ Cloud-only | ❌ Cloud-only |
-| **Free** | ✅ MIT open source | ❌ Paid license | ✅ Free tier | ✅ Free tier |
+| **Free** | ✅ For Alpha testers! | ❌ Paid license | ✅ Free tier | ✅ Free tier |
 | **Version control** | ✅ Git-powered snapshots | ⚠️ Manual backups | ⚠️ Revision history | ⚠️ Page history |
 | **Worldbuilding** | ✅ Integrated + auto-linked | ⚠️ Research folder | ❌ Separate docs | ⚠️ Separate databases |
 | **Cross-platform** | ✅ Windows, macOS, Linux | ⚠️ Windows + macOS | ✅ Browser | ✅ Browser |
