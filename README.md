@@ -16,7 +16,7 @@
 
 ## What is Foma?
 
-Foma is a **free, local-first desktop writing app** for novelists, game writers, and worldbuilders. Your manuscripts, your worldbuilding, your version history — all stored as transparent markdown files on your machine. No accounts. No subscriptions. No cloud lock-in.
+Foma is a **local-first desktop writing app** for novelists, game writers, and worldbuilders. Your manuscripts, your worldbuilding, your version history — all stored as transparent markdown files on your machine. No accounts. No subscriptions. No cloud lock-in.
 
 Write in a modern distraction-free editor. Organize your world alongside your manuscript. Let built-in version control remember every draft so you never lose a word.
 
