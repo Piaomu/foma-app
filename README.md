@@ -196,7 +196,7 @@ Foma's source code is developed in a private repository. The public repo hosts r
 
 ## License
 
-[MIT](LICENSE) — free to use, modify, and distribute.
+[End User License Agreement](LICENSE) 
 
 ---
 
